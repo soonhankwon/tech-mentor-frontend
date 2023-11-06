@@ -19,7 +19,7 @@ function App() {
           <Route path="/login-home" component={LoginHome} />
           <Route path="/chats/:id" component={ChatRoom} />
           <Route path="/mypage" component={MyPage} />
-          <Route path="/tech-mentor-frontend/oauth/kakao" component={LoginHandler} />
+          <Route path="/oauth/kakao" component={LoginHandler} />
         </Switch>
       </Router>
     </AuthProvider>
