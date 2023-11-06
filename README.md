@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [About the Project](#star2-about-the-project)
+  * [Web url](#globe_with_meridians-web-url)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Architecture](#building_construction-architecture)
+  * [Features](#dart-features)
+  * [Issues](#fountain_pen-issues)
+- [Roadmap](#compass-roadmap)
+- [Contact](#handshake-contact)
 
-## Available Scripts
+<!-- About the Project -->
+## :star2: About the Project
 
-In the project directory, you can run:
+<!-- Web URL -->
+### :globe_with_meridians: Web Url
+- https://soonhankwon.github.io/tech-mentor-frontend/
 
-### `npm start`
+<!-- Screenshots -->
+### :camera: Screenshots
+<div align="center"> 
+  <img src="https://github.com/soonhankwon/dev-space-x-backend/assets/113872320/0a7a7f3b-b7d0-4e62-a6e0-bef64cf2149e" width="200" height="300" alt="screenshot"/>
+  <img src="https://github.com/soonhankwon/dev-space-x-backend/assets/113872320/114c4e79-fef2-4b56-82a2-23bcfa90c9dd" width="200" height="300" alt="screenshot"/>
+  <img src="https://github.com/soonhankwon/dev-space-x-backend/assets/113872320/d8e3e9b6-5181-4843-a1b7-a26bfdd9d2b4" width="200" height="300" alt="screenshot"/>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TechStack -->
+### :space_invader: Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<details>
+  <summary>Frontend</summary>
+ 
+  - React
+  - Javascript
+</details>
 
-### `npm test`
+<details>
+<summary>DevOps</summary>
+ 
+  - AWS VPC
+  - AWS EC2
+  - AWS RDS
+  - Docker
+  - Github Actions
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Architecture -->
+### :building_construction: Architecture
 
-### `npm run build`
+<!-- Features -->
+### :dart: Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- OpenAI API 를 사용한 AI 멘토링 및 딥다이브 웹 애플리케이션입니다.
+- 멘토링 시 주제별 전문가의 멘토링을 받을 수 있습니다.
+- 질문에 대한 멘토링으로 진행되며, 프롬프트 엔지니어링으로 보다 정확하고 이해하기 쉽게 예시를 들어 해당 주제의 전문가 답변을 제공합니다.
+- 멘토링 답변에 대한 탐구할만한 연관질문 생성기능(DEEP DIVE)을 제공합니다.
+- 딥다이브 기능으로 주제에 연관된 여러 질문을 생성해줌으로써 보다 깊은 이해와 탐구가 가능하도록 합니다. 
+- 멘토링 모드는 StreamChatCompletion 기능이 구현되어 있습니다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- Issue -->
+### :fountain_pen: Issues
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- Roadmap -->
+## :compass: Roadmap
+* [x] Backend RestAPI로 리팩토링 + 프론트 React로 렌더링 작업
 
-### `npm run eject`
+<!-- Contact -->
+## :handshake: Contact
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Email - soonable@gmail.com
