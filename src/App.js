@@ -15,11 +15,11 @@ function App() {
     <AuthProvider>
       <Router>
         <Switch>
-          <Route path="/tech-mentor-frontend" component={Home} />
-          <Route path="/tech-mentor-frontend/login-home" component={LoginHome} />
-          <Route path="/tech-mentor-frontend/chats/:id" component={ChatRoom} />
-          <Route path="/tech-mentor-frontend/mypage" component={MyPage} />
-          <Route path="/tech-mentor-frontend/oauth/kakao" component={LoginHandler} />
+          <Route path="/" component={Home} />
+          <Route path="/login-home" component={LoginHome} />
+          <Route path="/chats/:id" component={ChatRoom} />
+          <Route path="/mypage" component={MyPage} />
+          <Route path="/oauth/kakao" component={LoginHandler} />
         </Switch>
       </Router>
     </AuthProvider>
