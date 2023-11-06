@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tech-mentor-frontend/static/css/main.2d548dc4.css",
+    "main.js": "/tech-mentor-frontend/static/js/main.29b9fff0.js",
+    "index.html": "/tech-mentor-frontend/index.html",
+    "main.2d548dc4.css.map": "/tech-mentor-frontend/static/css/main.2d548dc4.css.map",
+    "main.29b9fff0.js.map": "/tech-mentor-frontend/static/js/main.29b9fff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d548dc4.css",
+    "static/js/main.29b9fff0.js"
+  ]
+}
