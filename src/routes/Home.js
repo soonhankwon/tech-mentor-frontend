@@ -1,7 +1,7 @@
 function Home() {
     const onClick = () => {
         const kakaoClientId = process.env.REACT_APP_KAKAO_CLIENT_ID;
-        window.location.href = `https://kauth.kakao.com/oauth/authorize?client_id=${kakaoClientId}&redirect_uri=http://localhost:3000/oauth/kakao&response_type=code`;
+        window.location.href = `https://kauth.kakao.com/oauth/authorize?client_id=${kakaoClientId}&redirect_uri=https://soonhankwon.github.io/tech-mentor-frontend/oauth/kakao&response_type=code`;
     }
     
     return (
