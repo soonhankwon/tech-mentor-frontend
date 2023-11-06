@@ -13,7 +13,7 @@ function Home() {
             <div>
                 <p>PRESS UNDER BUTTON</p>
                 <img
-                    src="/kakao_login_large_wide.png"
+                    src="https://github.com/soonhankwon/tech-mentor-backend/assets/113872320/e5d4ea41-cf32-4cca-85ed-17e1c3cd80a0"
                     alt=""
                     onClick={onClick}>
                 </img>
