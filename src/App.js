@@ -15,7 +15,7 @@ function App() {
     <AuthProvider>
       <Router>
         <Switch>
-          <Route path="/" component={Home} />
+          <Route exact path="/tech-mentor-frontend" component={Home} />
           <Route path="/login-home" component={LoginHome} />
           <Route path="/chats/:id" component={ChatRoom} />
           <Route path="/mypage" component={MyPage} />
