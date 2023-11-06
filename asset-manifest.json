@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tech-mentor-frontend/static/css/main.2d548dc4.css",
-    "main.js": "/tech-mentor-frontend/static/js/main.50a0989b.js",
+    "main.js": "/tech-mentor-frontend/static/js/main.807137ec.js",
     "index.html": "/tech-mentor-frontend/index.html",
     "main.2d548dc4.css.map": "/tech-mentor-frontend/static/css/main.2d548dc4.css.map",
-    "main.50a0989b.js.map": "/tech-mentor-frontend/static/js/main.50a0989b.js.map"
+    "main.807137ec.js.map": "/tech-mentor-frontend/static/js/main.807137ec.js.map"
   },
   "entrypoints": [
     "static/css/main.2d548dc4.css",
-    "static/js/main.50a0989b.js"
+    "static/js/main.807137ec.js"
   ]
 }
